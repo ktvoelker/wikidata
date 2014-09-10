@@ -1,0 +1,15 @@
+
+API sandbox links:
+
+"What links to Property:P298?" (That's the ISO-3166-1 alpha-3 property.)
+http://www.wikidata.org/wiki/Special:ApiSandbox#action=query&list=backlinks&format=json&bltitle=Property%3AP298&bllimit=10
+/w/api.php?action=query&list=backlinks&format=json&bltitle=Property%3AP298&bllimit=10
+
+"Get the value of property P298 for entity Q27."
+http://www.wikidata.org/wiki/Special:ApiSandbox#action=wbgetclaims&format=json&entity=Q27&property=P298
+
+The English title of each entity page is the country name.
+
+
+We also need to generate a table for the Japanese imperial dynasties.
+
